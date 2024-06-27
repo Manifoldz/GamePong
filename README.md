@@ -26,4 +26,5 @@ Developed in a structured programming style in pure C language.
 
 ### Info
 
-* [Coverage analyzed during game test](tests/index.html)
+* [Coverage analyzed during game test](tests/LCOV - report.pdf)
+* You also can check it by `make gcov-report`
