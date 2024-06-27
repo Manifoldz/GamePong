@@ -15,8 +15,7 @@
 * K/M to move the right player's racket up/down.
 * Space Bar to skip action.
 
-### ⚙️ It is possible to customize the size of the playing field
-
+### ⚙️ It is possible to customize the game
 * WIDTH_FIELD - field width
 * HEIGHT_FIELD - field height
 * START_BALL_DIR_Y - initial vert. eg ball movement 1-down, -1-up
