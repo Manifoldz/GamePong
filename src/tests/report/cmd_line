@@ -1,0 +1,1 @@
+genhtml -o ./tests/report ./tests/report.info
