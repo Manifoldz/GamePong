@@ -2,6 +2,7 @@
 #define GAME_PONG_H
 
 #include <stdio.h>
+#include <unistd.h>
 
 #define WIDTH_FIELD 80
 #define HEIGHT_FIELD 25

@@ -11,10 +11,9 @@
 
 ### 🕹️ Game controls
   
-* A/Z to move the left player's racket.
-* K/M to move the right player's racket.
+* A/Z to move the left player's racket up/down.
+* K/M to move the right player's racket up/down.
 * Space Bar to skip action.
-* "q" to exit game after end!
 
 ### ⚙️ It is possible to customize the size of the playing field
 
@@ -27,4 +26,4 @@
 ### ℹ️ Info
 
 * [Coverage analyzed during game test](tests/LCOV - report.pdf)
-* You also can check it by `make gcov-report`
+* You also can check it by `make test` and `make gcov-report`

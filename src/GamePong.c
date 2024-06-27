@@ -34,7 +34,7 @@ int main() {
     show_field(rocket1, rocket2, ball_x, ball_y, score1, score2);
   }
 
-  while (getchar() != 'q');
+  sleep(5);
 
   return 0;
 }

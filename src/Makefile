@@ -42,8 +42,8 @@ gcov_report: test
 clean:
 	rm -rf *.o* \
 	$(TESTDIR)*.o* \
-	$(TESTDIR)*.gc*
-#$(TESTDIR)*report*
+	$(TESTDIR)*.gc* \
+	$(TESTDIR)*report*
 
 clang:
 	clang-format -i *.c
